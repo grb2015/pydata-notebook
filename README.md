@@ -162,3 +162,11 @@
 The code in this repository, including all code samples in the notebooks listed
 above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [Open Source Initiative](https://opensource.org/licenses/MIT).
+
+
+## rbguo added
+1.如何运行.ipynb文件
+https://blog.csdn.net/appleyuchi/article/details/73478272
+2.将.ipynb 转为 .py
+File—>Download as—>python(.py)
+jupyter nbconvert --to script demo.ipynb   //将 demo.ipynb转为demo.py
