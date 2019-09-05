@@ -170,3 +170,8 @@ https://blog.csdn.net/appleyuchi/article/details/73478272
 2.将.ipynb 转为 .py
 File—>Download as—>python(.py)
 jupyter nbconvert --to script demo.ipynb   //将 demo.ipynb转为demo.py
+
+
+如果提示 ：“'jupyter' 不是内部或外部命令，也不是可运行的程序 .或批处理文件。” 设置了环境变量也不行的话，可以在系统中找这个文件，然后点击运行
+
+jupyter-notebook.exe
